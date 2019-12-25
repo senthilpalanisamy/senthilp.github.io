@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 11
-date: 2019-12-10
+date: 2019-11-01
 img: workshop.jpg
 alt: image-alt
 project-date: Nov 2019

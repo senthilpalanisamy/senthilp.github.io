@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 4
-date: 2019-12-10
+date: 2019-12-20
 img: ocv.gif
 alt: image-alt
 project-date: December 2017

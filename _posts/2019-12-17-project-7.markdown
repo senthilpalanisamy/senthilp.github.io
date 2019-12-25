@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 7
-date: 2019-12-10
+date: 2019-12-17
 img: magic_book.gif
 alt: image-alt
 project-date: December 2017

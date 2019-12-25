@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-12-25T15:35:40-06:00</updated>
+  <updated>2019-12-25T16:23:12-06:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -21,11 +21,11 @@
   
     <entry>
       <title type="html">Baxter, the lego-builder</title>
-      <link href="http://localhost:4000/2019/12/10/project-1/" rel="alternate" type="text/html" title="Baxter, the lego-builder" />
-      <published>2019-12-10T00:00:00-06:00</published>
-      <updated>2019-12-10T00:00:00-06:00</updated>
-      <id>http://localhost:4000/2019/12/10/project-1</id>
-      <content type="html" xml:base="http://localhost:4000/2019/12/10/project-1/"></content>
+      <link href="http://localhost:4000/2019/12/23/project-1/" rel="alternate" type="text/html" title="Baxter, the lego-builder" />
+      <published>2019-12-23T00:00:00-06:00</published>
+      <updated>2019-12-23T00:00:00-06:00</updated>
+      <id>http://localhost:4000/2019/12/23/project-1</id>
+      <content type="html" xml:base="http://localhost:4000/2019/12/23/project-1/"></content>
 
       
       
@@ -53,11 +53,11 @@
   
     <entry>
       <title type="html">A PID controller with an online AStar planner</title>
-      <link href="http://localhost:4000/2019/12/10/project-2/" rel="alternate" type="text/html" title="A PID controller with an online AStar planner" />
-      <published>2019-12-10T00:00:00-06:00</published>
-      <updated>2019-12-10T00:00:00-06:00</updated>
-      <id>http://localhost:4000/2019/12/10/project-2</id>
-      <content type="html" xml:base="http://localhost:4000/2019/12/10/project-2/"></content>
+      <link href="http://localhost:4000/2019/12/22/project-2/" rel="alternate" type="text/html" title="A PID controller with an online AStar planner" />
+      <published>2019-12-22T00:00:00-06:00</published>
+      <updated>2019-12-22T00:00:00-06:00</updated>
+      <id>http://localhost:4000/2019/12/22/project-2</id>
+      <content type="html" xml:base="http://localhost:4000/2019/12/22/project-2/"></content>
 
       
       
@@ -85,11 +85,11 @@
   
     <entry>
       <title type="html">Object Manipulation using Youbot in Simulation.</title>
-      <link href="http://localhost:4000/2019/12/10/project-3/" rel="alternate" type="text/html" title="Object Manipulation using Youbot in Simulation." />
-      <published>2019-12-10T00:00:00-06:00</published>
-      <updated>2019-12-10T00:00:00-06:00</updated>
-      <id>http://localhost:4000/2019/12/10/project-3</id>
-      <content type="html" xml:base="http://localhost:4000/2019/12/10/project-3/"></content>
+      <link href="http://localhost:4000/2019/12/21/project-3/" rel="alternate" type="text/html" title="Object Manipulation using Youbot in Simulation." />
+      <published>2019-12-21T00:00:00-06:00</published>
+      <updated>2019-12-21T00:00:00-06:00</updated>
+      <id>http://localhost:4000/2019/12/21/project-3</id>
+      <content type="html" xml:base="http://localhost:4000/2019/12/21/project-3/"></content>
 
       
       
@@ -117,11 +117,11 @@
   
     <entry>
       <title type="html">OCV (Optical Character Verification) using smart camera</title>
-      <link href="http://localhost:4000/2019/12/10/project-4/" rel="alternate" type="text/html" title="OCV (Optical Character Verification) using smart camera" />
-      <published>2019-12-10T00:00:00-06:00</published>
-      <updated>2019-12-10T00:00:00-06:00</updated>
-      <id>http://localhost:4000/2019/12/10/project-4</id>
-      <content type="html" xml:base="http://localhost:4000/2019/12/10/project-4/"></content>
+      <link href="http://localhost:4000/2019/12/20/project-4/" rel="alternate" type="text/html" title="OCV (Optical Character Verification) using smart camera" />
+      <published>2019-12-20T00:00:00-06:00</published>
+      <updated>2019-12-20T00:00:00-06:00</updated>
+      <id>http://localhost:4000/2019/12/20/project-4</id>
+      <content type="html" xml:base="http://localhost:4000/2019/12/20/project-4/"></content>
 
       
       
@@ -149,11 +149,11 @@
   
     <entry>
       <title type="html">Seat Belt Detection</title>
-      <link href="http://localhost:4000/2019/12/10/project-5/" rel="alternate" type="text/html" title="Seat Belt Detection" />
-      <published>2019-12-10T00:00:00-06:00</published>
-      <updated>2019-12-10T00:00:00-06:00</updated>
-      <id>http://localhost:4000/2019/12/10/project-5</id>
-      <content type="html" xml:base="http://localhost:4000/2019/12/10/project-5/"></content>
+      <link href="http://localhost:4000/2019/12/19/project-5/" rel="alternate" type="text/html" title="Seat Belt Detection" />
+      <published>2019-12-19T00:00:00-06:00</published>
+      <updated>2019-12-19T00:00:00-06:00</updated>
+      <id>http://localhost:4000/2019/12/19/project-5</id>
+      <content type="html" xml:base="http://localhost:4000/2019/12/19/project-5/"></content>
 
       
       
@@ -181,11 +181,11 @@
   
     <entry>
       <title type="html">Aadhar Card reader</title>
-      <link href="http://localhost:4000/2019/12/10/project-6/" rel="alternate" type="text/html" title="Aadhar Card reader" />
-      <published>2019-12-10T00:00:00-06:00</published>
-      <updated>2019-12-10T00:00:00-06:00</updated>
-      <id>http://localhost:4000/2019/12/10/project-6</id>
-      <content type="html" xml:base="http://localhost:4000/2019/12/10/project-6/"></content>
+      <link href="http://localhost:4000/2019/12/19/project-6/" rel="alternate" type="text/html" title="Aadhar Card reader" />
+      <published>2019-12-19T00:00:00-06:00</published>
+      <updated>2019-12-19T00:00:00-06:00</updated>
+      <id>http://localhost:4000/2019/12/19/project-6</id>
+      <content type="html" xml:base="http://localhost:4000/2019/12/19/project-6/"></content>
 
       
       
@@ -213,11 +213,11 @@
   
     <entry>
       <title type="html">Magic book</title>
-      <link href="http://localhost:4000/2019/12/10/project-7/" rel="alternate" type="text/html" title="Magic book" />
-      <published>2019-12-10T00:00:00-06:00</published>
-      <updated>2019-12-10T00:00:00-06:00</updated>
-      <id>http://localhost:4000/2019/12/10/project-7</id>
-      <content type="html" xml:base="http://localhost:4000/2019/12/10/project-7/"></content>
+      <link href="http://localhost:4000/2019/12/17/project-7/" rel="alternate" type="text/html" title="Magic book" />
+      <published>2019-12-17T00:00:00-06:00</published>
+      <updated>2019-12-17T00:00:00-06:00</updated>
+      <id>http://localhost:4000/2019/12/17/project-7</id>
+      <content type="html" xml:base="http://localhost:4000/2019/12/17/project-7/"></content>
 
       
       
@@ -245,11 +245,11 @@
   
     <entry>
       <title type="html">Rapidly Exploring Random Tree</title>
-      <link href="http://localhost:4000/2019/12/10/project-8/" rel="alternate" type="text/html" title="Rapidly Exploring Random Tree" />
-      <published>2019-12-10T00:00:00-06:00</published>
-      <updated>2019-12-10T00:00:00-06:00</updated>
-      <id>http://localhost:4000/2019/12/10/project-8</id>
-      <content type="html" xml:base="http://localhost:4000/2019/12/10/project-8/"></content>
+      <link href="http://localhost:4000/2019/12/13/project-8/" rel="alternate" type="text/html" title="Rapidly Exploring Random Tree" />
+      <published>2019-12-13T00:00:00-06:00</published>
+      <updated>2019-12-13T00:00:00-06:00</updated>
+      <id>http://localhost:4000/2019/12/13/project-8</id>
+      <content type="html" xml:base="http://localhost:4000/2019/12/13/project-8/"></content>
 
       
       
@@ -309,11 +309,11 @@
   
     <entry>
       <title type="html">Other Computer Vision projects</title>
-      <link href="http://localhost:4000/2019/12/10/project-10/" rel="alternate" type="text/html" title="Other Computer Vision projects" />
-      <published>2019-12-10T00:00:00-06:00</published>
-      <updated>2019-12-10T00:00:00-06:00</updated>
-      <id>http://localhost:4000/2019/12/10/project-10</id>
-      <content type="html" xml:base="http://localhost:4000/2019/12/10/project-10/"></content>
+      <link href="http://localhost:4000/2019/11/09/project-10/" rel="alternate" type="text/html" title="Other Computer Vision projects" />
+      <published>2019-11-09T00:00:00-06:00</published>
+      <updated>2019-11-09T00:00:00-06:00</updated>
+      <id>http://localhost:4000/2019/11/09/project-10</id>
+      <content type="html" xml:base="http://localhost:4000/2019/11/09/project-10/"></content>
 
       
       
