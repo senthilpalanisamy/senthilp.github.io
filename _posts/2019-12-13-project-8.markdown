@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 8
+date: 2019-12-10
+img: rrt.gif
+alt: image-alt
+project-date: December 2017
+description: <h2> Brief Description </h2>  RRT is a fundamental planning algortihm in robotics and it is very useful especially when in planning in high dimensional non-convex spaces where discreting the whole space and planning exhaustively based all discrete point is not feasible.<br><br><h2> Algorithm Description</h2><ul><li> A rrt begins by first selecting a sampling a point randomly and cheks if the point is not inside any obstacles</li> Then the node which is the nearest node to the sampled point is chosen and then a unit vector pointing the direction chosing the sampled point and nearest node on the graph is calculated</li><li> Then, the graph is expanded \(\Delta\) distance in the unit vector direction from the nearest node provided the whole extension does not collide with any obstacles. A pesudocode of the whole algorithm is shown below<br><br> <img src="./img/portfolio/rrt_pseudocode.png" width="560" class="center"></li> </li>The termination point of the algorithm is when there is a direct obstacle free path from the one of the nodes in the graph to the goal destination.<li> A point which needs further eloboration from the above description is how do we check for collision during a node expansion. This checking becomes simplified when all obstacles are circular because all we need to check are only two things<ul><li>The prependicular distance of the line to be extended from each of the circle center should be less than their respective circle radius</li><li> The end points of the line should not line inside any of the circle</li></ul>Such a simplified implemenation is shown below.</li><li> But when we are given random obstacles, we should then use Bresnan's line algorithm to check for collisions all along the line. This is the implementation that is shown at the top of the post.</li></ul> The code for this implementation can be found at one of <a href='https://github.com/senthilpalanisamy/msr_assignments' target="_blank">my github repos</a><br> 
+title: Rapidly Exploring Random Tree 
+
+---

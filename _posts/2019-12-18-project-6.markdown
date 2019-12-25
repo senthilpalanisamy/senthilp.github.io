@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 6
+date: 2019-12-10
+img: card_reader.gif
+alt: image-alt
+project-date: December 2017
+description: <h2> Brief Description </h2> Card readers are becoming a versatile application in India and this is one such project to read one of India's government Identification cards, which is called the Aadhar. The first idea was to extend this to a lot more Indian government Identification cards like PAN, Passport and Voter Id but we didn't have the time to extend it but this algorithm works well for Aadhar card. <h2> Algorithm Description</h2><ul><li> The four corners of the card is first found by detecting all the edges of the card using canny edge detection. It must be noted that a clear contrast between the card and its background is assumed for this step. In order to make it more robust, more complex detection algorithms should be used. </li><li> A template view of the card is defined based on predefined 2D pose (The card looks absolutely horizontal with no rotation). Now a homography is estimated to align the given card to the predefined 2D pose.</li><li> Now the hhomography is applied to transform the card to its template view, where all text is now horizontal. Now, SWT (Stroke Width Transform) is applied to detect all text in the image.</li><li> After detecting text, the text is segmented into characters and each character is then recognized using Deep Learning OCR model that we trained. This model was originally trained on 0.1 Million images of handwritten character but this model also offered great performance for printed characters as well</li><li> Tesseract Engine can also be used for segmentation and character recognition but many underlying parameters have to carefully fine tuned to get it working to a decent level. But overall, we got better performance with our HCR model on these printed character than the Tesseract Engine on these printed characters. With Tesseract, the accuracy was about 87% while with our custom trained model, the accuracy was about 96%.</li></ul> The demo can be accessed in <a href="https://digitizekyc.herokuapp.com/" target-"_blank">this</a>link.<br><br> Since this a work that did for my company, the code cannot be open sourced but feel free to get in touch with me to know more about this.
+title: Aadhar Card reader 
+
+---
