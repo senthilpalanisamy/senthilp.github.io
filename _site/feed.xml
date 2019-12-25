@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2019-12-25T13:15:58-06:00</updated>
+  <id>http://localhost:4000/</id>
+
+  
+    <title type="html">Senthil Palanisamy</title>
+  
+
+  
+    <subtitle>Portfolio of a robotics Computer Vision Engineer</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Baxter, the lego-builder</title>
+      <link href="http://localhost:4000/2019/12/10/project-1/" rel="alternate" type="text/html" title="Baxter, the lego-builder" />
+      <published>2019-12-10T00:00:00-06:00</published>
+      <updated>2019-12-10T00:00:00-06:00</updated>
+      <id>http://localhost:4000/2019/12/10/project-1</id>
+      <content type="html" xml:base="http://localhost:4000/2019/12/10/project-1/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">A PID controller with an online AStar planner</title>
+      <link href="http://localhost:4000/2019/12/10/project-2/" rel="alternate" type="text/html" title="A PID controller with an online AStar planner" />
+      <published>2019-12-10T00:00:00-06:00</published>
+      <updated>2019-12-10T00:00:00-06:00</updated>
+      <id>http://localhost:4000/2019/12/10/project-2</id>
+      <content type="html" xml:base="http://localhost:4000/2019/12/10/project-2/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Object Manipulation using Youbot in Simulation.</title>
+      <link href="http://localhost:4000/2019/12/10/project-3/" rel="alternate" type="text/html" title="Object Manipulation using Youbot in Simulation." />
+      <published>2019-12-10T00:00:00-06:00</published>
+      <updated>2019-12-10T00:00:00-06:00</updated>
+      <id>http://localhost:4000/2019/12/10/project-3</id>
+      <content type="html" xml:base="http://localhost:4000/2019/12/10/project-3/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">OCV (Optical Character Verification) using smart camera</title>
+      <link href="http://localhost:4000/2019/12/10/project-4/" rel="alternate" type="text/html" title="OCV (Optical Character Verification) using smart camera" />
+      <published>2019-12-10T00:00:00-06:00</published>
+      <updated>2019-12-10T00:00:00-06:00</updated>
+      <id>http://localhost:4000/2019/12/10/project-4</id>
+      <content type="html" xml:base="http://localhost:4000/2019/12/10/project-4/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Seat Belt Detection</title>
+      <link href="http://localhost:4000/2019/12/10/project-5/" rel="alternate" type="text/html" title="Seat Belt Detection" />
+      <published>2019-12-10T00:00:00-06:00</published>
+      <updated>2019-12-10T00:00:00-06:00</updated>
+      <id>http://localhost:4000/2019/12/10/project-5</id>
+      <content type="html" xml:base="http://localhost:4000/2019/12/10/project-5/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Aadhar Card reader</title>
+      <link href="http://localhost:4000/2019/12/10/project-6/" rel="alternate" type="text/html" title="Aadhar Card reader" />
+      <published>2019-12-10T00:00:00-06:00</published>
+      <updated>2019-12-10T00:00:00-06:00</updated>
+      <id>http://localhost:4000/2019/12/10/project-6</id>
+      <content type="html" xml:base="http://localhost:4000/2019/12/10/project-6/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Magic book</title>
+      <link href="http://localhost:4000/2019/12/10/project-7/" rel="alternate" type="text/html" title="Magic book" />
+      <published>2019-12-10T00:00:00-06:00</published>
+      <updated>2019-12-10T00:00:00-06:00</updated>
+      <id>http://localhost:4000/2019/12/10/project-7</id>
+      <content type="html" xml:base="http://localhost:4000/2019/12/10/project-7/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Rapidly Exploring Random Tree</title>
+      <link href="http://localhost:4000/2019/12/10/project-8/" rel="alternate" type="text/html" title="Rapidly Exploring Random Tree" />
+      <published>2019-12-10T00:00:00-06:00</published>
+      <updated>2019-12-10T00:00:00-06:00</updated>
+      <id>http://localhost:4000/2019/12/10/project-8</id>
+      <content type="html" xml:base="http://localhost:4000/2019/12/10/project-8/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Servo Controlled Ball tracking</title>
+      <link href="http://localhost:4000/2019/12/10/project-9/" rel="alternate" type="text/html" title="Servo Controlled Ball tracking" />
+      <published>2019-12-10T00:00:00-06:00</published>
+      <updated>2019-12-10T00:00:00-06:00</updated>
+      <id>http://localhost:4000/2019/12/10/project-9</id>
+      <content type="html" xml:base="http://localhost:4000/2019/12/10/project-9/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Other Computer Vision projects</title>
+      <link href="http://localhost:4000/2019/12/10/project-10/" rel="alternate" type="text/html" title="Other Computer Vision projects" />
+      <published>2019-12-10T00:00:00-06:00</published>
+      <updated>2019-12-10T00:00:00-06:00</updated>
+      <id>http://localhost:4000/2019/12/10/project-10</id>
+      <content type="html" xml:base="http://localhost:4000/2019/12/10/project-10/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
