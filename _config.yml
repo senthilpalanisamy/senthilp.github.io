@@ -1,7 +1,7 @@
 # Site settings
 title: Senthil Palanisamy
 email: senthillihtnes1994@gmail.com
-url:  https://senthilpalanisamy.github.io/senthilp.github.io/ 
+url: "https://senthilpalanisamy.github.io/senthilp.github.io/"
 baseurl: ""
 description: "Portfolio of a robotics Computer Vision Engineer"
 keywords: "Robotics, Computer Vision, Portfolio, jobs, Phd"
