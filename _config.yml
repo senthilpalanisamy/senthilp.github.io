@@ -37,6 +37,7 @@ footer:
   copyright: Senthil Palanisamy
   location: Location
   social: Around the Web
+  contacts: Contact
   #credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -48,8 +49,12 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 1241 Emerson Avenue, At-2
+  - line: 1241 Emerson Avenue, Apt-2
   - line: Illinois, 60201
+
+contacts:
+  - line: (872) 985-1814
+  - line: senthilpalanisamy2020@u.northwestern.edu 
 
 # Credits content
 # credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
