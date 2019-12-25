@@ -7,7 +7,7 @@ description: "Portfolio of a robotics Computer Vision Engineer"
 keywords: "Robotics, Computer Vision, Portfolio, jobs, Phd"
 skills: "The power of human eyes and human brain can never be appreciated fully without developing a computer vision algorithm for a robot. The intersection of robotics and computer vision, to me, is the most fascinating place of all"
 meta_author: LastName FirstName
-remote_theme: "jeromelachaud/freelancer-theme@1.0.1"
+remote_theme: "jeromelachaud/freelancer-theme"
 
 
 # Google webmaster tools
