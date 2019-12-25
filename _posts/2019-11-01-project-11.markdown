@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 11
+date: 2019-12-10
+img: workshop.jpg
+alt: image-alt
+project-date: Nov 2019
+description: <h2> Brief Description</h2> I, along with my team in Soliton Conducted three workshops on Computer Vision between 2016-19. I have listed the ppts, link to github repo and the parts I handled for each workshop here. Over the years, I have handled Machine learning and Deep learning in the context of computer vision and fundamentals of projective geometry in these workshops<br><br><h2> Anthill Workshop 2018</h2><ul<li> Anthill is an annual machine learning conference organised in Bangalore. We presented a 2 Day workshop on "DL and ML for computer Vision" at this conference. Link to <a href="https://anthillinside.in/2018-computer-vision-workshop/" target="_blank">the workshop</a></li><li> Link to <a href="https://github.com/dhivakark/ahws_18" target="_blank">the github repo</a></li><li> You can view <a href="./files/Day1_PPT.pdf" target="_blank">the day1 PPT</a> and <a href="./files/Day2_PPT.pdf" target="_blank"> day2 PPT2</a> here.</li><li> I handled the machine learning part of the workshop.<h2> PSG Workshop 2018</h2> PSG is a reputed college in South India. We were invited to give a two day workshop for the final year undergraduate students and faculty at PSG. Link to the <a href="http://www.psgtech.edu/Teqip_Workshop%20Feb_2018.pdf" target="_blank">workshop decription</a><ul><li>Link to <a href="https://github.com/dhivakark/psg_ws_18" target+"_blank"> github repo</a> You can view the <a href="./files/PSG_Day1.pdf" target="_blank"> Day-1 PPT</a> and <a href="./files/PSG_Day2.pdf" target="_blank"> Day-2 PPT</a> here</li><li> I handled the projective geometry and deep learning part of the workshop.</li></ul><h2>Anthill Workshop 2017</h2><ul<li> Anthill is an annual machine learning conference organised in Bangalore. We presented a one Day workshop on "DL and ML for computer Vision" at this conference. Link to <a href="https://fifthelephant.in/2017-aug-dl-and-ml-for-cv-workshop/" target="_blank">the workshop</a></li><li> Link to <a href="https://github.com/dhivakark/ahws_17" target="_blank">the github repo</a></li><li> The PPT used for this workshop is just a subset of the PPT used in 2018 workshop</li><li> I handled the whole deep learning part of the workshop.
+title: Workshops Conducted 
+
+---
