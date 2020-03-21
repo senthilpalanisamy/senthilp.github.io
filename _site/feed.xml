@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-01-05T12:56:31-06:00</updated>
+  <updated>2020-03-20T20:57:03-05:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -18,6 +18,38 @@
   
 
   
+  
+    <entry>
+      <title type="html">Baxter learns to tie a knot</title>
+      <link href="http://localhost:4000/2020/03/20/project-13/" rel="alternate" type="text/html" title="Baxter learns to tie a knot" />
+      <published>2020-03-20T00:00:00-05:00</published>
+      <updated>2020-03-20T00:00:00-05:00</updated>
+      <id>http://localhost:4000/2020/03/20/project-13</id>
+      <content type="html" xml:base="http://localhost:4000/2020/03/20/project-13/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Baxter, the lego-builder</title>
@@ -282,38 +314,6 @@
       <updated>2019-12-10T00:00:00-06:00</updated>
       <id>http://localhost:4000/2019/12/10/project-9</id>
       <content type="html" xml:base="http://localhost:4000/2019/12/10/project-9/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Other Computer Vision projects</title>
-      <link href="http://localhost:4000/2019/11/09/project-10/" rel="alternate" type="text/html" title="Other Computer Vision projects" />
-      <published>2019-11-09T00:00:00-06:00</published>
-      <updated>2019-11-09T00:00:00-06:00</updated>
-      <id>http://localhost:4000/2019/11/09/project-10</id>
-      <content type="html" xml:base="http://localhost:4000/2019/11/09/project-10/"></content>
 
       
       
