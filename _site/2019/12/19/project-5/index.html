@@ -117,7 +117,37 @@
             <div class="row">
                 
                     <div class="col-sm-4 portfolio-item">
-                        <a href="#portfolioModal-12" class="portfolio-link" data-toggle="modal">
+                        <a href="#portfolioModal-14" class="portfolio-link" data-toggle="modal">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="img/portfolio/nav_8.gif" class="img-responsive" alt="image-alt">
+
+                           <div class="inner-text">                                           
+                             <h4>Navigation and SLAM on a TurtleBot</h4>                                     
+                          </div>                                                             
+                          </a>
+                    </div>
+                
+                    <div class="col-sm-4 portfolio-item">
+                        <a href="#portfolioModal-15" class="portfolio-link" data-toggle="modal">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="img/portfolio/visual_SLAM.jpg" class="img-responsive" alt="image-alt">
+
+                           <div class="inner-text">                                           
+                             <h4>A survey on Visual SLAM</h4>                                     
+                          </div>                                                             
+                          </a>
+                    </div>
+                
+                    <div class="col-sm-4 portfolio-item">
+                        <a href="#portfolioModal-13" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
@@ -504,7 +534,79 @@
 
      <!-- Portfolio Modals -->
  
-    <div class="portfolio-modal modal fade" id="portfolioModal-12" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="portfolioModal-14" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Navigation and SLAM on a TurtleBot</h2>
+                            <hr class="star-primary">
+                            <img src="img/portfolio/nav_8.gif" class="img-responsive img-centered" alt="image-alt">
+                            
+                                <p><h2>Breif Overview</h2> A C++ project for a wheeled robot navigation and SLAM using a EKF filter was constructed from scratch and tested on a turtlebot.<h2>Detailed Explanation</h2> Kinematics for a wheeled robot navigation invloves estimating a robot's movement based control inputs applied. Here, a velocity control was used and the odometric state of the robot was estimated. However, a feedback control gives better results than a feed forward control and hence, the use of wheel encoders improves the accuracy in the robot state estimation. However, our modelling capacity is so limited that this is not useful for long term state estimation. Particulary, factors like wheel slip cannot be modelled through our simple model and the use of SLAM is the reliable solution for long term robot pose and map estimation. SLAM stands for Simultaneous Localisation and Mapping, which means that the robot builds a map and localises itself at the same time. While this is a Chicken and egg problem, several framework do exist for solving this problem reliably. One of the well established techniques for doing this is the use of Kalman filters. In this work, I implemented an Extended Kalman Filter. In short, an extended kalman filter uses a Taylor's series approximation for linearising the motion model and measurement model to preserve the gaussin posterior, an essential requirement for a Kalman Filter. It must be noted here, that choice of EKF SLAM was solely based on the problem requirement- for robot localisation in an environment with no / limited prior knowledge. Hence, a dense map is not genereated through this method. Infact, we get only a few landmarks points that are tracked throughout for state estimation. <h2> Work in Progress</h2> SLAM with known data association has been implemented and verified successfully verified under a gazebo simulation. Ground Truth for Landmarks were taken from the simulation. SLAM under an unknown environment with an unknown data association is a work in progress<h2> Code</h2> Code for this work can be found at <a href="https://github.com/senthilpalanisamy/NavigationProject" target="_blank">this github repo</a></p>
+                            
+                            <ul class="list-inline item-details">
+                                
+                                
+                                    <li>Date:
+                                        <strong><a href="http://startbootstrap.com">March 2020</a>
+                                        </strong>
+                                    </li>
+                                
+                                
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="portfolio-modal modal fade" id="portfolioModal-15" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>A survey on Visual SLAM</h2>
+                            <hr class="star-primary">
+                            <img src="img/portfolio/visual_SLAM.jpg" class="img-responsive img-centered" alt="image-alt">
+                            
+                                <p><h2>Breif Overview</h2>  I read 51 papers in the area of visual SLAM and summarized my understanding into a short survey paper <h2> Detailed Overview </h2> The goal of this survey is to gain a broad knowledge on the techniques of SLAM and to gain an insight into the evolving role of vision in present day SLAM. The primary objective is not to be coarse and learn these systems at a block diagram level but to dig deeper and understand them at the mathematical formulation level. Visual SLAM is a huge community. With the introduction of new sensors, the role of vision in SLAM is actively getting redefined. The paper selection methodology is such that papers are sampled across all sensing modalities that can be used in combination with a vision system. Attention was also paid to distribute papers across different SLAM frameworks and visual SLAM  techniques. Thus at the end of this paper, it is my primary objective to be well versed in all of the vocabulary used across all of visual SLAM system and to summarize my understanding and inference in a clean way for future reference.<h2> Paper and Presentation</h2> To get a concise view of ideas presented in the survey, please refer to <a href="./files/VSLAM_presentation.pdf" target="_blank"> presentation</a>. For a more detailed view of all ideas presented, please download my <a href="./files/VSLAM_report.pdf" target="_blank">report</a></p>
+                            
+                            <ul class="list-inline item-details">
+                                
+                                
+                                    <li>Date:
+                                        <strong><a href="http://startbootstrap.com">March 2020</a>
+                                        </strong>
+                                    </li>
+                                
+                                
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="portfolio-modal modal fade" id="portfolioModal-13" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">

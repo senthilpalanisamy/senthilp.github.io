@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-03-20T23:01:49-05:00</updated>
+  <updated>2020-04-01T00:13:02-05:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -18,6 +18,70 @@
   
 
   
+  
+    <entry>
+      <title type="html">Navigation and SLAM on a TurtleBot</title>
+      <link href="http://localhost:4000/2020/03/20/project-14/" rel="alternate" type="text/html" title="Navigation and SLAM on a TurtleBot" />
+      <published>2020-03-20T00:00:00-05:00</published>
+      <updated>2020-03-20T00:00:00-05:00</updated>
+      <id>http://localhost:4000/2020/03/20/project-14</id>
+      <content type="html" xml:base="http://localhost:4000/2020/03/20/project-14/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">A survey on Visual SLAM</title>
+      <link href="http://localhost:4000/2020/03/20/project-15/" rel="alternate" type="text/html" title="A survey on Visual SLAM" />
+      <published>2020-03-20T00:00:00-05:00</published>
+      <updated>2020-03-20T00:00:00-05:00</updated>
+      <id>http://localhost:4000/2020/03/20/project-15</id>
+      <content type="html" xml:base="http://localhost:4000/2020/03/20/project-15/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Baxter learns to tie a knot</title>
@@ -250,70 +314,6 @@
       <updated>2019-12-17T00:00:00-06:00</updated>
       <id>http://localhost:4000/2019/12/17/project-7</id>
       <content type="html" xml:base="http://localhost:4000/2019/12/17/project-7/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Rapidly Exploring Random Tree</title>
-      <link href="http://localhost:4000/2019/12/13/project-8/" rel="alternate" type="text/html" title="Rapidly Exploring Random Tree" />
-      <published>2019-12-13T00:00:00-06:00</published>
-      <updated>2019-12-13T00:00:00-06:00</updated>
-      <id>http://localhost:4000/2019/12/13/project-8</id>
-      <content type="html" xml:base="http://localhost:4000/2019/12/13/project-8/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Servo Controlled Ball tracking</title>
-      <link href="http://localhost:4000/2019/12/10/project-9/" rel="alternate" type="text/html" title="Servo Controlled Ball tracking" />
-      <published>2019-12-10T00:00:00-06:00</published>
-      <updated>2019-12-10T00:00:00-06:00</updated>
-      <id>http://localhost:4000/2019/12/10/project-9</id>
-      <content type="html" xml:base="http://localhost:4000/2019/12/10/project-9/"></content>
 
       
       

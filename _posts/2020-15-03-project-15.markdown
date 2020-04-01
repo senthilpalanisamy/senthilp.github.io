@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 15
+date: 2020-3-20
+img: visual_SLAM.jpg 
+alt: image-alt
+project-date: March 2020
+description: <h2>Breif Overview</h2>  I read 51 papers in the area of visual SLAM and summarized my understanding into a short survey paper <h2> Detailed Overview </h2> The goal of this survey is to gain a broad knowledge on the techniques of SLAM and to gain an insight into the evolving role of vision in present day SLAM. The primary objective is not to be coarse and learn these systems at a block diagram level but to dig deeper and understand them at the mathematical formulation level. Visual SLAM is a huge community. With the introduction of new sensors, the role of vision in SLAM is actively getting redefined. The paper selection methodology is such that papers are sampled across all sensing modalities that can be used in combination with a vision system. Attention was also paid to distribute papers across different SLAM frameworks and visual SLAM  techniques. Thus at the end of this paper, it is my primary objective to be well versed in all of the vocabulary used across all of visual SLAM system and to summarize my understanding and inference in a clean way for future reference.<h2> Paper and Presentation</h2> To get a concise view of ideas presented in the survey, please refer to <a href="./files/VSLAM_presentation.pdf" target="_blank"> presentation</a>. For a more detailed view of all ideas presented, please download my <a href="./files/VSLAM_report.pdf" target="_blank">report</a>
+title: A survey on Visual SLAM
+
+---
