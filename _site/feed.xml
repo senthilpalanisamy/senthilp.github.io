@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-04-03T20:18:49-05:00</updated>
+  <updated>2020-12-10T14:28:07-06:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -18,6 +18,38 @@
   
 
   
+  
+    <entry>
+      <title type="html">High speed image stitching and mice tracking</title>
+      <link href="http://localhost:4000/2020/12/09/project-13/" rel="alternate" type="text/html" title="High speed image stitching and mice tracking" />
+      <published>2020-12-09T00:00:00-06:00</published>
+      <updated>2020-12-09T00:00:00-06:00</updated>
+      <id>http://localhost:4000/2020/12/09/project-13</id>
+      <content type="html" xml:base="http://localhost:4000/2020/12/09/project-13/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Navigation and SLAM on a TurtleBot</title>
@@ -282,38 +314,6 @@
       <updated>2019-12-19T00:00:00-06:00</updated>
       <id>http://localhost:4000/2019/12/19/project-6</id>
       <content type="html" xml:base="http://localhost:4000/2019/12/19/project-6/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Magic book</title>
-      <link href="http://localhost:4000/2019/12/17/project-7/" rel="alternate" type="text/html" title="Magic book" />
-      <published>2019-12-17T00:00:00-06:00</published>
-      <updated>2019-12-17T00:00:00-06:00</updated>
-      <id>http://localhost:4000/2019/12/17/project-7</id>
-      <content type="html" xml:base="http://localhost:4000/2019/12/17/project-7/"></content>
 
       
       
