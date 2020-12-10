@@ -13,7 +13,7 @@
     <meta name="description" content="Portfolio of a robotics Computer Vision Engineer">
     <meta name="keywords" content="Robotics, Computer Vision, Portfolio, jobs, Phd" />
     <meta name="author" content="Palanisamy Senthil">
-    <link rel="canonical" href="https://senthilpalanisamy.github.io/senthilp.github.io/2019/12/20/project-4/">
+    <link rel="canonical" href="http://localhost:4000/2019/12/20/project-4/">
     <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
 
     <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
@@ -117,16 +117,16 @@
             <div class="row">
                 
                     <div class="col-sm-4 portfolio-item">
-                        <a href="#portfolioModal-" class="portfolio-link" data-toggle="modal">
+                        <a href="#portfolioModal-14" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="img/portfolio/" class="img-responsive" alt="">
+                            <img src="img/portfolio/stitchedImage.png" class="img-responsive" alt="image-alt">
 
                            <div class="inner-text">                                           
-                             <h4></h4>                                     
+                             <h4>High speed image stitching and mice tracking</h4>                                     
                           </div>                                                             
                           </a>
                     </div>
@@ -549,7 +549,7 @@
 
      <!-- Portfolio Modals -->
  
-    <div class="portfolio-modal modal fade" id="portfolioModal-" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="portfolioModal-14" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -561,12 +561,19 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2></h2>
+                            <h2>High speed image stitching and mice tracking</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/" class="img-responsive img-centered" alt="">
+                            <img src="img/portfolio/stitchedImage.png" class="img-responsive img-centered" alt="image-alt">
+                            
+                                <p><h2>Breif Overview</h2> The primary motivation with this work is to replicate some of the research work carried out in Prof. Malcolm's Maclver's neuroscience lab. The lab has primarily been working on predator prey experiments in simulation and published results on the same. In order to verify that some of these results carry over to the results on actual animal, a maze space was setup and a mice is allowed to run inside the maze where it tries to reach a goal position while a robot acts a predator and threatens the mice. In order to make these things a reality, a high speed mice tracking system at more than 100 fps at least is needed since the robot needs to  plan online to take up the predator role. Since the total area is about 200 cm x 200 cm and the pixel / mm required for imaging the mice satisfactorily demands the need of using multiple cameras and therefore, a need to do multiview image stitching to stitch the image from camera view naturally emerged. <h2> Hardware Setup </h2> The hardware setup consists of 4 Basler Ace cameras powered by and connected to the computer systems through PCIe framegrabbers. The camera are mounted on above the maze at an approximate height of about 90 cms above the ground using 80/20 frames. The cameras are mounted on the 80 / 20 frames using mounting adapters and T-slots. The system also has a GTX 1050 Ti GPU card for running CUDA enabled computer vision algorithms and deep learning algorithms.<br><br><img src="./img/portfolio/hardware.png" width=140 class="center"><br></p>
                             
                             <ul class="list-inline item-details">
                                 
+                                
+                                    <li>Date:
+                                        <strong><a href="http://startbootstrap.com">December 2020</a>
+                                        </strong>
+                                    </li>
                                 
                                 
                             </ul>
