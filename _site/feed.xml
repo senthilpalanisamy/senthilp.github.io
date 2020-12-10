@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator>
-  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-12-10T14:28:07-06:00</updated>
-  <id>http://localhost:4000/</id>
+  <link href="https://senthilpalanisamy.github.io/senthilp.github.io/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://senthilpalanisamy.github.io/senthilp.github.io/" rel="alternate" type="text/html" />
+  <updated>2020-12-10T14:39:12-06:00</updated>
+  <id>https://senthilpalanisamy.github.io/senthilp.github.io/</id>
 
   
     <title type="html">Senthil Palanisamy</title>
@@ -20,12 +20,12 @@
   
   
     <entry>
-      <title type="html">High speed image stitching and mice tracking</title>
-      <link href="http://localhost:4000/2020/12/09/project-13/" rel="alternate" type="text/html" title="High speed image stitching and mice tracking" />
-      <published>2020-12-09T00:00:00-06:00</published>
-      <updated>2020-12-09T00:00:00-06:00</updated>
-      <id>http://localhost:4000/2020/12/09/project-13</id>
-      <content type="html" xml:base="http://localhost:4000/2020/12/09/project-13/"></content>
+      <title type="html"></title>
+      <link href="https://senthilpalanisamy.github.io/senthilp.github.io/2020/12/10/2020-12-10-project-13/" rel="alternate" type="text/html" title="" />
+      <published>2020-12-10T14:39:12-06:00</published>
+      <updated>2020-12-10T14:39:12-06:00</updated>
+      <id>https://senthilpalanisamy.github.io/senthilp.github.io/2020/12/10/2020-12-10-project-13</id>
+      <content type="html" xml:base="https://senthilpalanisamy.github.io/senthilp.github.io/2020/12/10/2020-12-10-project-13/"></content>
 
       
       
@@ -44,8 +44,6 @@
       
 
       
-        <summary type="html"></summary>
-      
 
       
       
@@ -53,11 +51,11 @@
   
     <entry>
       <title type="html">Navigation and SLAM on a TurtleBot</title>
-      <link href="http://localhost:4000/2020/03/20/project-14/" rel="alternate" type="text/html" title="Navigation and SLAM on a TurtleBot" />
+      <link href="https://senthilpalanisamy.github.io/senthilp.github.io/2020/03/20/project-14/" rel="alternate" type="text/html" title="Navigation and SLAM on a TurtleBot" />
       <published>2020-03-20T00:00:00-05:00</published>
       <updated>2020-03-20T00:00:00-05:00</updated>
-      <id>http://localhost:4000/2020/03/20/project-14</id>
-      <content type="html" xml:base="http://localhost:4000/2020/03/20/project-14/"></content>
+      <id>https://senthilpalanisamy.github.io/senthilp.github.io/2020/03/20/project-14</id>
+      <content type="html" xml:base="https://senthilpalanisamy.github.io/senthilp.github.io/2020/03/20/project-14/"></content>
 
       
       
@@ -85,11 +83,11 @@
   
     <entry>
       <title type="html">A survey on Visual SLAM</title>
-      <link href="http://localhost:4000/2020/03/20/project-15/" rel="alternate" type="text/html" title="A survey on Visual SLAM" />
+      <link href="https://senthilpalanisamy.github.io/senthilp.github.io/2020/03/20/project-15/" rel="alternate" type="text/html" title="A survey on Visual SLAM" />
       <published>2020-03-20T00:00:00-05:00</published>
       <updated>2020-03-20T00:00:00-05:00</updated>
-      <id>http://localhost:4000/2020/03/20/project-15</id>
-      <content type="html" xml:base="http://localhost:4000/2020/03/20/project-15/"></content>
+      <id>https://senthilpalanisamy.github.io/senthilp.github.io/2020/03/20/project-15</id>
+      <content type="html" xml:base="https://senthilpalanisamy.github.io/senthilp.github.io/2020/03/20/project-15/"></content>
 
       
       
@@ -117,11 +115,11 @@
   
     <entry>
       <title type="html">Baxter learns to tie a knot</title>
-      <link href="http://localhost:4000/2020/03/20/project-13/" rel="alternate" type="text/html" title="Baxter learns to tie a knot" />
+      <link href="https://senthilpalanisamy.github.io/senthilp.github.io/2020/03/20/project-13/" rel="alternate" type="text/html" title="Baxter learns to tie a knot" />
       <published>2020-03-20T00:00:00-05:00</published>
       <updated>2020-03-20T00:00:00-05:00</updated>
-      <id>http://localhost:4000/2020/03/20/project-13</id>
-      <content type="html" xml:base="http://localhost:4000/2020/03/20/project-13/"></content>
+      <id>https://senthilpalanisamy.github.io/senthilp.github.io/2020/03/20/project-13</id>
+      <content type="html" xml:base="https://senthilpalanisamy.github.io/senthilp.github.io/2020/03/20/project-13/"></content>
 
       
       
@@ -149,11 +147,11 @@
   
     <entry>
       <title type="html">Baxter, the lego-builder</title>
-      <link href="http://localhost:4000/2019/12/23/project-1/" rel="alternate" type="text/html" title="Baxter, the lego-builder" />
+      <link href="https://senthilpalanisamy.github.io/senthilp.github.io/2019/12/23/project-1/" rel="alternate" type="text/html" title="Baxter, the lego-builder" />
       <published>2019-12-23T00:00:00-06:00</published>
       <updated>2019-12-23T00:00:00-06:00</updated>
-      <id>http://localhost:4000/2019/12/23/project-1</id>
-      <content type="html" xml:base="http://localhost:4000/2019/12/23/project-1/"></content>
+      <id>https://senthilpalanisamy.github.io/senthilp.github.io/2019/12/23/project-1</id>
+      <content type="html" xml:base="https://senthilpalanisamy.github.io/senthilp.github.io/2019/12/23/project-1/"></content>
 
       
       
@@ -181,11 +179,11 @@
   
     <entry>
       <title type="html">A PID controller with an online AStar planner</title>
-      <link href="http://localhost:4000/2019/12/22/project-2/" rel="alternate" type="text/html" title="A PID controller with an online AStar planner" />
+      <link href="https://senthilpalanisamy.github.io/senthilp.github.io/2019/12/22/project-2/" rel="alternate" type="text/html" title="A PID controller with an online AStar planner" />
       <published>2019-12-22T00:00:00-06:00</published>
       <updated>2019-12-22T00:00:00-06:00</updated>
-      <id>http://localhost:4000/2019/12/22/project-2</id>
-      <content type="html" xml:base="http://localhost:4000/2019/12/22/project-2/"></content>
+      <id>https://senthilpalanisamy.github.io/senthilp.github.io/2019/12/22/project-2</id>
+      <content type="html" xml:base="https://senthilpalanisamy.github.io/senthilp.github.io/2019/12/22/project-2/"></content>
 
       
       
@@ -213,11 +211,11 @@
   
     <entry>
       <title type="html">Object Manipulation using Youbot in Simulation.</title>
-      <link href="http://localhost:4000/2019/12/21/project-3/" rel="alternate" type="text/html" title="Object Manipulation using Youbot in Simulation." />
+      <link href="https://senthilpalanisamy.github.io/senthilp.github.io/2019/12/21/project-3/" rel="alternate" type="text/html" title="Object Manipulation using Youbot in Simulation." />
       <published>2019-12-21T00:00:00-06:00</published>
       <updated>2019-12-21T00:00:00-06:00</updated>
-      <id>http://localhost:4000/2019/12/21/project-3</id>
-      <content type="html" xml:base="http://localhost:4000/2019/12/21/project-3/"></content>
+      <id>https://senthilpalanisamy.github.io/senthilp.github.io/2019/12/21/project-3</id>
+      <content type="html" xml:base="https://senthilpalanisamy.github.io/senthilp.github.io/2019/12/21/project-3/"></content>
 
       
       
@@ -245,11 +243,11 @@
   
     <entry>
       <title type="html">OCV (Optical Character Verification) using smart camera</title>
-      <link href="http://localhost:4000/2019/12/20/project-4/" rel="alternate" type="text/html" title="OCV (Optical Character Verification) using smart camera" />
+      <link href="https://senthilpalanisamy.github.io/senthilp.github.io/2019/12/20/project-4/" rel="alternate" type="text/html" title="OCV (Optical Character Verification) using smart camera" />
       <published>2019-12-20T00:00:00-06:00</published>
       <updated>2019-12-20T00:00:00-06:00</updated>
-      <id>http://localhost:4000/2019/12/20/project-4</id>
-      <content type="html" xml:base="http://localhost:4000/2019/12/20/project-4/"></content>
+      <id>https://senthilpalanisamy.github.io/senthilp.github.io/2019/12/20/project-4</id>
+      <content type="html" xml:base="https://senthilpalanisamy.github.io/senthilp.github.io/2019/12/20/project-4/"></content>
 
       
       
@@ -277,11 +275,11 @@
   
     <entry>
       <title type="html">Seat Belt Detection</title>
-      <link href="http://localhost:4000/2019/12/19/project-5/" rel="alternate" type="text/html" title="Seat Belt Detection" />
+      <link href="https://senthilpalanisamy.github.io/senthilp.github.io/2019/12/19/project-5/" rel="alternate" type="text/html" title="Seat Belt Detection" />
       <published>2019-12-19T00:00:00-06:00</published>
       <updated>2019-12-19T00:00:00-06:00</updated>
-      <id>http://localhost:4000/2019/12/19/project-5</id>
-      <content type="html" xml:base="http://localhost:4000/2019/12/19/project-5/"></content>
+      <id>https://senthilpalanisamy.github.io/senthilp.github.io/2019/12/19/project-5</id>
+      <content type="html" xml:base="https://senthilpalanisamy.github.io/senthilp.github.io/2019/12/19/project-5/"></content>
 
       
       
@@ -309,11 +307,11 @@
   
     <entry>
       <title type="html">Aadhar Card reader</title>
-      <link href="http://localhost:4000/2019/12/19/project-6/" rel="alternate" type="text/html" title="Aadhar Card reader" />
+      <link href="https://senthilpalanisamy.github.io/senthilp.github.io/2019/12/19/project-6/" rel="alternate" type="text/html" title="Aadhar Card reader" />
       <published>2019-12-19T00:00:00-06:00</published>
       <updated>2019-12-19T00:00:00-06:00</updated>
-      <id>http://localhost:4000/2019/12/19/project-6</id>
-      <content type="html" xml:base="http://localhost:4000/2019/12/19/project-6/"></content>
+      <id>https://senthilpalanisamy.github.io/senthilp.github.io/2019/12/19/project-6</id>
+      <content type="html" xml:base="https://senthilpalanisamy.github.io/senthilp.github.io/2019/12/19/project-6/"></content>
 
       
       
