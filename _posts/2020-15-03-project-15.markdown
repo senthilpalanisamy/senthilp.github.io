@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 15
-date: 2020-3-20
+date: 2020-1-20
 img: visual_SLAM.jpg 
 alt: image-alt
 project-date: March 2020

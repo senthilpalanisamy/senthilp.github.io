@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-12-10T21:55:07-06:00</updated>
+  <updated>2020-12-22T22:07:39-06:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -84,12 +84,12 @@
     </entry>
   
     <entry>
-      <title type="html">A survey on Visual SLAM</title>
-      <link href="http://localhost:4000/2020/03/20/project-15/" rel="alternate" type="text/html" title="A survey on Visual SLAM" />
+      <title type="html">Baxter learns to tie a knot</title>
+      <link href="http://localhost:4000/2020/03/20/project-13/" rel="alternate" type="text/html" title="Baxter learns to tie a knot" />
       <published>2020-03-20T00:00:00-05:00</published>
       <updated>2020-03-20T00:00:00-05:00</updated>
-      <id>http://localhost:4000/2020/03/20/project-15</id>
-      <content type="html" xml:base="http://localhost:4000/2020/03/20/project-15/"></content>
+      <id>http://localhost:4000/2020/03/20/project-13</id>
+      <content type="html" xml:base="http://localhost:4000/2020/03/20/project-13/"></content>
 
       
       
@@ -116,12 +116,12 @@
     </entry>
   
     <entry>
-      <title type="html">Baxter learns to tie a knot</title>
-      <link href="http://localhost:4000/2020/03/20/project-13/" rel="alternate" type="text/html" title="Baxter learns to tie a knot" />
-      <published>2020-03-20T00:00:00-05:00</published>
-      <updated>2020-03-20T00:00:00-05:00</updated>
-      <id>http://localhost:4000/2020/03/20/project-13</id>
-      <content type="html" xml:base="http://localhost:4000/2020/03/20/project-13/"></content>
+      <title type="html">A survey on Visual SLAM</title>
+      <link href="http://localhost:4000/2020/01/20/project-15/" rel="alternate" type="text/html" title="A survey on Visual SLAM" />
+      <published>2020-01-20T00:00:00-06:00</published>
+      <updated>2020-01-20T00:00:00-06:00</updated>
+      <id>http://localhost:4000/2020/01/20/project-15</id>
+      <content type="html" xml:base="http://localhost:4000/2020/01/20/project-15/"></content>
 
       
       
@@ -180,12 +180,12 @@
     </entry>
   
     <entry>
-      <title type="html">A PID controller with an online AStar planner</title>
-      <link href="http://localhost:4000/2019/12/22/project-2/" rel="alternate" type="text/html" title="A PID controller with an online AStar planner" />
+      <title type="html">Object Manipulation using Youbot in Simulation.</title>
+      <link href="http://localhost:4000/2019/12/22/project-3/" rel="alternate" type="text/html" title="Object Manipulation using Youbot in Simulation." />
       <published>2019-12-22T00:00:00-06:00</published>
       <updated>2019-12-22T00:00:00-06:00</updated>
-      <id>http://localhost:4000/2019/12/22/project-2</id>
-      <content type="html" xml:base="http://localhost:4000/2019/12/22/project-2/"></content>
+      <id>http://localhost:4000/2019/12/22/project-3</id>
+      <content type="html" xml:base="http://localhost:4000/2019/12/22/project-3/"></content>
 
       
       
@@ -212,12 +212,12 @@
     </entry>
   
     <entry>
-      <title type="html">Object Manipulation using Youbot in Simulation.</title>
-      <link href="http://localhost:4000/2019/12/21/project-3/" rel="alternate" type="text/html" title="Object Manipulation using Youbot in Simulation." />
+      <title type="html">A PID controller with an online AStar planner</title>
+      <link href="http://localhost:4000/2019/12/21/project-2/" rel="alternate" type="text/html" title="A PID controller with an online AStar planner" />
       <published>2019-12-21T00:00:00-06:00</published>
       <updated>2019-12-21T00:00:00-06:00</updated>
-      <id>http://localhost:4000/2019/12/21/project-3</id>
-      <content type="html" xml:base="http://localhost:4000/2019/12/21/project-3/"></content>
+      <id>http://localhost:4000/2019/12/21/project-2</id>
+      <content type="html" xml:base="http://localhost:4000/2019/12/21/project-2/"></content>
 
       
       

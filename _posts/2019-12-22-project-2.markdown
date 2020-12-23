@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: 2019-12-22
+date: 2019-12-21
 img: astar.gif
 alt: image-alt
 project-date: December 2019
