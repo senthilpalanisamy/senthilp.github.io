@@ -4,7 +4,8 @@ email: senthillihtnes1994@gmail.com
 url: https://senthilpalanisamy.github.io/senthilp.github.io
 description: "Portfolio of a robotics Computer Vision Engineer"
 keywords: "Robotics, Computer Vision, Portfolio, jobs, Phd"
-skills: "The power of human eyes and human brain can never be appreciated fully without trying to power a robot's vision. The intersection of robotics and computer vision, to me, is the most fascinating place of all"
+
+skills: "Sensing and understanding the outside world through sensors is a fascinating process that opens your mind to the beauty of mathematics, research, programming and engineering"
 meta_author: Palanisamy Senthil
 remote_theme: "jeromelachaud/freelancer-theme"
 
@@ -49,8 +50,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 1241 Emerson Avenue, Apt-2
-  - line: Illinois, 60201
+  - line: 1401, Red Hawk Circle, Apt- M207
+  - line: California, 94538
 
 contacts:
   - line: (872) 985-1814
